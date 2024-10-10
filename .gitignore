@@ -51,3 +51,12 @@ __pycache__
 /Backend/mocap.py
 /Assets/*.mp4
 /Assets/Satomi 3d - Anime Style
+*.csproj
+.vs/DigiHuman/xs/project-cache/Assembly-CSharp-Debug.json
+.vs/DigiHuman/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+.vs/DigiHuman/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+.vs/DigiHuman/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+*.csproj
+*.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
