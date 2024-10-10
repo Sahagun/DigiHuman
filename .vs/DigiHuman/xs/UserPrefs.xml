@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{70A782A2-4476-7FBB-29DB-65CBA8E5E371}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FacialExpressionHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pose3DMapper.cs">
     <Files>
       <File FileName="Assets/Scripts/FrameReader.cs" Line="184" Column="1" />
       <File FileName="Assets/Scripts/FacialExpressionHandler.cs" Line="85" Column="1" />
+      <File FileName="Assets/Scripts/CharacterMapper.cs" Line="59" Column="29" />
+      <File FileName="Assets/Scripts/Pose3DMapper.cs" Line="217" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4be5464-7f7f-4749-b17d-65f2768b69a6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c65efcf-fa1d-418b-880d-717e5010af51" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
